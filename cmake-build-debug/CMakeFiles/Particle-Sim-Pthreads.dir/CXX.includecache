@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Sim-Pthreads/src/common.cpp
+common.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Sim-Pthreads/src/common.h
+string.h
+-
+sys/time.h
+-
+cmath
+-
+windows.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Sim-Pthreads/src/windows.h
+random
+-
+
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Sim-Pthreads/src/common.h
+iostream
+-
+
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Sim-Pthreads/src/main.cpp
+common.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Sim-Pthreads/src/common.h
+pthread.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Sim-Pthreads/src/pthread.h
+
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Sim-Pthreads/src/pthread.cpp
+cmath
+-
+unistd.h
+-
+pthread.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Sim-Pthreads/src/pthread.h
+
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Sim-Pthreads/src/pthread.h
+vector
+-
+common.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Sim-Pthreads/src/common.h
+
